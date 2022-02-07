@@ -1,1 +1,3 @@
 This is the content of the file1.txt
+
+This is the new content for the file added to check the code owner logic to trigger and make Mani as code reviewer for my PR.
